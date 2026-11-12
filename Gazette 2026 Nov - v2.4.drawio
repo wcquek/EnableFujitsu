@@ -1845,7 +1845,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Statutory Appointment Annual Review" id="c8SZm5tKj7jkBvDuLdnT">
-    <mxGraphModel dx="2274" dy="-389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="-565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zZxqn9DonwcJ2C8TlR2l-0" />
         <mxCell id="zZxqn9DonwcJ2C8TlR2l-1" parent="zZxqn9DonwcJ2C8TlR2l-0" />
@@ -1957,6 +1957,15 @@
             <mxGeometry height="40" width="220" x="-820" y="1380" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="-R4mge6ZXRccpcL7B7fo-0" parent="zZxqn9DonwcJ2C8TlR2l-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;a class=&quot;linked formlink&quot; aria-label=&quot;Open record: TES2007&quot; href=&quot;https://momster-uat.mom.gov.sg/u_test_scripts.do?sys_id=97feed968d585f1060614a0355507c06&amp;amp;sysparm_record_target=u_test_scripts&amp;amp;sysparm_record_row=9&amp;amp;sysparm_record_rows=715&amp;amp;sysparm_record_list=ORDERBYDESCnumber&quot; style=&quot;text-align: left; background: 0px 0px; box-sizing: border-box; scrollbar-color: rgb(82, 113, 129) rgb(245, 246, 247); scrollbar-width: auto; cursor: pointer; text-decoration: none; transition: color 0.3s cubic-bezier(0.075, 0.82, 0.165, 1); font-size: 14px; font-family: Lato, Arial, sans-serif; color: rgb(17, 58, 130);&quot;&gt;TES2007&lt;/a&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-310" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="-R4mge6ZXRccpcL7B7fo-1" parent="zZxqn9DonwcJ2C8TlR2l-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;a class=&quot;linked formlink&quot; aria-label=&quot;Open record: TES2008&quot; href=&quot;https://momster-uat.mom.gov.sg/u_test_scripts.do?sys_id=6d6f2dd68d585f1060614a0355507cfb&amp;amp;sysparm_record_target=u_test_scripts&amp;amp;sysparm_record_row=8&amp;amp;sysparm_record_rows=715&amp;amp;sysparm_record_list=ORDERBYDESCnumber&quot; style=&quot;text-align: left; background: 0px 0px; box-sizing: border-box; scrollbar-color: rgb(82, 113, 129) rgb(245, 246, 247); scrollbar-width: auto; cursor: pointer; text-decoration: none; transition: color 0.3s cubic-bezier(0.075, 0.82, 0.165, 1); font-size: 14px; font-family: Lato, Arial, sans-serif; color: rgb(17, 58, 130);&quot;&gt;TES2008&lt;/a&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-370" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="-R4mge6ZXRccpcL7B7fo-2" parent="zZxqn9DonwcJ2C8TlR2l-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;a class=&quot;linked formlink&quot; aria-label=&quot;Open record: TES2009&quot; href=&quot;https://momster-uat.mom.gov.sg/u_test_scripts.do?sys_id=17afe51a8d585f1060614a0355507ca7&amp;amp;sysparm_record_target=u_test_scripts&amp;amp;sysparm_record_row=7&amp;amp;sysparm_record_rows=715&amp;amp;sysparm_record_list=ORDERBYDESCnumber&quot; style=&quot;text-align: left; background: 0px 0px; box-sizing: border-box; scrollbar-color: rgb(82, 113, 129) rgb(245, 246, 247); scrollbar-width: auto; cursor: pointer; text-decoration: none; transition: color 0.3s cubic-bezier(0.075, 0.82, 0.165, 1); font-size: 14px; font-family: Lato, Arial, sans-serif; color: rgb(17, 58, 130);&quot;&gt;TES2009&lt;/a&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-610" y="1680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
