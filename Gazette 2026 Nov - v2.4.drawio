@@ -439,7 +439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Degazette" id="lQVPevaVK_NE0n4rzjc1">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3253" dy="-5279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1m4sT2fzvqz4kLlKzO-4-0" />
         <mxCell id="1m4sT2fzvqz4kLlKzO-4-1" parent="1m4sT2fzvqz4kLlKzO-4-0" />
@@ -765,8 +765,8 @@
         <mxCell id="ktOyEyAt-Bk6LYWadMc4-9" parent="1m4sT2fzvqz4kLlKzO-4-1" style="text;whiteSpace=wrap;" value="DFCT0019036" vertex="1">
           <mxGeometry height="21" width="80" x="1120" y="7588.25" as="geometry" />
         </mxCell>
-        <mxCell id="rOSj31CLahmb1MzJ9typ-0" parent="1m4sT2fzvqz4kLlKzO-4-1" style="text;whiteSpace=wrap;" value="Include serial number inside this task.&#xa;&#xa;Create a defect (enhancement) for prioritization" vertex="1">
-          <mxGeometry height="62.75" width="248.87" x="969.7600000000001" y="8292.75" as="geometry" />
+        <mxCell id="rOSj31CLahmb1MzJ9typ-0" parent="1m4sT2fzvqz4kLlKzO-4-1" style="text;whiteSpace=wrap;" value="Include serial number inside this task." vertex="1">
+          <mxGeometry height="30" width="248.87" x="969.76" y="8292.75" as="geometry" />
         </mxCell>
         <mxCell id="jwAdeb3ljZaAJ5D8XE7k-0" parent="1m4sT2fzvqz4kLlKzO-4-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="270" width="349" x="2092" y="7605" as="geometry" />
@@ -819,6 +819,11 @@
         <mxCell id="QgGozfXrM9WDG2Xscu5H-0" parent="1m4sT2fzvqz4kLlKzO-4-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;TIVO Trigger: 14 days before Contract End Date&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="92.5" x="1758.25" y="7690" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;a class=&quot;linked formlink&quot; aria-label=&quot;Open record: DFCT0023277&quot; href=&quot;https://momster-uat.mom.gov.sg/rm_defect.do?sys_id=4abc39529f181f107ad8e0312e24ab99&amp;amp;sysparm_view=scrum&amp;amp;sysparm_record_target=rm_defect&amp;amp;sysparm_record_row=1&amp;amp;sysparm_record_rows=10&amp;amp;sysparm_record_list=active%3Dtrue%5Eshort_descriptionCONTAINSauthority%5EORDERBYDESCsys_created_on&amp;amp;sysparm_view=scrum&quot; style=&quot;box-sizing: border-box; scrollbar-color: rgb(82, 113, 129) rgb(245, 246, 247); scrollbar-width: auto; background: 0px 0px; color: rgb(17, 58, 130); cursor: pointer; text-decoration: underline; transition: color 0.3s cubic-bezier(0.075, 0.82, 0.165, 1); outline: 0px; font-weight: 400; font-size: 14px; font-family: Lato, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal;&quot;&gt;DFCT0023277&lt;/a&gt;" link="&lt;a class=&quot;linked formlink&quot; aria-label=&quot;Open record: DFCT0023277&quot; href=&quot;https://momster-uat.mom.gov.sg/rm_defect.do?sys_id=4abc39529f181f107ad8e0312e24ab99&amp;amp;sysparm_view=scrum&amp;amp;sysparm_record_target=rm_defect&amp;amp;sysparm_record_row=1&amp;amp;sysparm_record_rows=10&amp;amp;sysparm_record_list=active%3Dtrue%5Eshort_descriptionCONTAINSauthority%5EORDERBYDESCsys_created_on&amp;amp;sysparm_view=scrum&quot; style=&quot;box-sizing: border-box; scrollbar-color: rgb(82, 113, 129) rgb(245, 246, 247); scrollbar-width: auto; background: 0px 0px; color: rgb(17, 58, 130); cursor: pointer; text-decoration: underline; transition: color 0.3s cubic-bezier(0.075, 0.82, 0.165, 1); outline: 0px; font-weight: 400; font-size: 14px; font-family: Lato, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal;&quot;&gt;DFCT0023277&lt;/a&gt;" id="8xRrLuumQ6XTc_qZ-OZS-0">
+          <mxCell parent="1m4sT2fzvqz4kLlKzO-4-1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="130" x="1020" y="8315.5" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
