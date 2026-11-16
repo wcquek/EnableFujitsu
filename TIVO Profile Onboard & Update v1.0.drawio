@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="IdzS5yf_Hur3D7wdZ17G">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-18" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;u&gt;IW Update TIVO Contract End Date&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1. Employee (Choose Employee - only TIVO user)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Current Contract End Date&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. New Contract End Date&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="280" x="480" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-5" edge="1" parent="1" source="s2KmrXEPc5jT8OvyfopN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="s2KmrXEPc5jT8OvyfopN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="TIVO Manager Submit MOMGPT" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Link to IW Adhoc Name-Based Stat Appointment Form" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-6" edge="1" parent="1" source="s2KmrXEPc5jT8OvyfopN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="s2KmrXEPc5jT8OvyfopN-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Link to IW TIVO Profile Creation Form" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-7" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;IW TIVO Profile Creation Form&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. First Name&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Last Name&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Designation (Free Text)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. Officer Type (Choice: TIVO)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. Division&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6. Department&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;7. Email Address&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;8. Contract Start Date&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;9. Contract End Date&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Record Producer Description with a link to &quot;Name-Based Stat Appointment&quot; Request Form&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Visible For:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;After submitting, redirect to &quot;Name-Based Statutory Appointment&quot; request form.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="280" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Issue" vertex="1">
+          <mxGeometry height="320" width="210" x="10" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-9" parent="s2KmrXEPc5jT8OvyfopN-10" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Power Automate reminds Department Rep to Degazette (Current)" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-8" parent="s2KmrXEPc5jT8OvyfopN-10" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="MOMGPT doesn&#39;t remind &lt;br&gt;(Current Design)&lt;div&gt;*Does not have Gazette info&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="20" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-16" parent="s2KmrXEPc5jT8OvyfopN-10" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="IW doesn&#39;t remind &lt;br&gt;(Current Design)&lt;div&gt;*Does not have info of TIVO offboarding&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="230" as="geometry" />
+        </mxCell>
+        <UserObject label="Name-Based Statutory Appointment" link="Name-Based Statutory Appointment" linkTarget="_blank" id="s2KmrXEPc5jT8OvyfopN-14">
+          <mxCell parent="1" style="text;whiteSpace=wrap;fontStyle=4;fontColor=#3333FF;" vertex="1">
+            <mxGeometry height="30" width="130" x="380" y="450" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-15" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="&lt;div style=&quot;text-align: left;&quot;&gt;AA Bulk Approval Interface needs to include a new column to show &quot;Officer Type&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="120" x="320" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="s2KmrXEPc5jT8OvyfopN-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="IW Update TIVO&amp;nbsp;Contract End Date" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
