@@ -46,13 +46,7 @@
           <mxGeometry height="105" width="120" x="320" y="15" as="geometry" />
         </mxCell>
         <mxCell id="s2KmrXEPc5jT8OvyfopN-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="IW Update TIVO&amp;nbsp;Contract End Date" vertex="1">
-          <mxGeometry height="60" width="120" x="640" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="m6UagEddkkrB0qfUeYDi-2" edge="1" parent="1" source="m6UagEddkkrB0qfUeYDi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="s2KmrXEPc5jT8OvyfopN-17" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="m6UagEddkkrB0qfUeYDi-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Email Reminder 30 days before Contract End Date to Department Reps to go to this form?" vertex="1">
-          <mxGeometry height="80" width="130" x="480" y="130" as="geometry" />
+          <mxGeometry height="60" width="120" x="520" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
