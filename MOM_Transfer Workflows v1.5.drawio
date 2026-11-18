@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="6">
   <diagram name="Inter/Intra/Promotion" id="uW1KlhDviHAPyaSH8Ajn">
-    <mxGraphModel dx="4103" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3093" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -913,7 +913,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NPL, StudyL, Attchm, Scdm" id="ejf5tkJZticYLomRvWg4">
-    <mxGraphModel dx="2133" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1324,7 +1324,7 @@
         <mxCell id="mmTHryBJr8DkvMdwjpcL-1" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Change in Statutory Appointment Process" vertex="1">
           <mxGeometry height="60" width="120" x="1698.4999999999998" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="mmTHryBJr8DkvMdwjpcL-2" edge="1" parent="1" source="mmTHryBJr8DkvMdwjpcL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" target="mmTHryBJr8DkvMdwjpcL-1">
+        <mxCell id="mmTHryBJr8DkvMdwjpcL-2" edge="1" parent="1" source="mmTHryBJr8DkvMdwjpcL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=light-dark(#330000,#121212);" target="mmTHryBJr8DkvMdwjpcL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mmTHryBJr8DkvMdwjpcL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Determine type of Statutory Appointment (Name vs Designation Based)" vertex="1">
