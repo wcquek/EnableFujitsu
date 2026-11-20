@@ -754,7 +754,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zp2eOvPGG0FTrY0TR4bz-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;a class=&quot;linked formlink&quot; aria-label=&quot;Open record: TES1942&quot; href=&quot;https://momster-uat.mom.gov.sg/u_test_scripts.do?sys_id=d34a483b8484db10606113c32a51565b&amp;amp;sysparm_record_target=u_test_scripts&amp;amp;sysparm_record_row=14&amp;amp;sysparm_record_rows=653&amp;amp;sysparm_record_list=ORDERBYDESCnumber&quot; style=&quot;text-align: left; background: 0px 0px; box-sizing: border-box; scrollbar-color: rgb(82, 113, 129) rgb(245, 246, 247); scrollbar-width: auto; cursor: pointer; text-decoration: none; transition: color 0.3s cubic-bezier(0.075, 0.82, 0.165, 1); font-size: 14px; font-family: Lato, Arial, sans-serif; color: rgb(17, 58, 130);&quot;&gt;TES1942&lt;/a&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="872.6" y="1590" as="geometry" />
+          <mxGeometry height="30" width="60" x="887.4" y="1590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
