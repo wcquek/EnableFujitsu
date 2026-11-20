@@ -913,7 +913,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NPL, StudyL, Attchm, Scdm" id="ejf5tkJZticYLomRvWg4">
-    <mxGraphModel dx="2270" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1583" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1403,9 +1403,9 @@
         <mxCell id="sOVIcvM3RU-2fCapo1Zi-1" edge="1" parent="1" source="sOVIcvM3RU-2fCapo1Zi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iiqxjwedCNV82scFMhIc-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sOVIcvM3RU-2fCapo1Zi-9" connectable="0" parent="sOVIcvM3RU-2fCapo1Zi-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes&lt;div&gt;(Retain Asset Scenario)&lt;/div&gt;" vertex="1">
+        <mxCell id="sOVIcvM3RU-2fCapo1Zi-9" connectable="0" parent="sOVIcvM3RU-2fCapo1Zi-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes&lt;div&gt;(Retain Asset Scenario)&lt;br&gt;Will be marked as Closed Incomplete&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.8551" y="1" as="geometry">
-            <mxPoint x="417" y="41" as="offset" />
+            <mxPoint x="112" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Asset Retention:&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;DIST Approval&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(Information Systems and Technology Department)&lt;/span&gt;&lt;/div&gt;" link="https://momster-uat.mom.gov.sg/nav_to.do?uri=rm_story.do?sys_id=8c255f939f4c8f107ad8e0312e24abe9&amp;sysparm_view=scrum" linkTarget="_blank" id="Tm_-2onpRAj2dZ8zvLyu-1">
