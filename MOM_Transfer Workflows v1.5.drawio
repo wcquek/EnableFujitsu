@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="6">
   <diagram name="Inter/Intra/Promotion" id="uW1KlhDviHAPyaSH8Ajn">
-    <mxGraphModel dx="2042" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2158" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
         <mxCell id="16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: light-dark(rgb(51, 0, 0), rgb(18, 18, 18));&quot;&gt;Email Notification with Skype and Outlook excel generated&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 0, 0), rgb(18, 18, 18));&quot;&gt;(batched weekly, Monday)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(51, 0, 0), rgb(18, 18, 18));&quot;&gt;&amp;lt;SR Admin&amp;gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="155" x="692.5" y="1330" as="geometry" />
         </mxCell>
-        <mxCell id="17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: light-dark(rgb(51, 0, 0), rgb(18, 18, 18));&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 10px;&quot;&gt;Update User Department or Designation in MOM AD (LAN ID)&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(51, 0, 0), rgb(18, 18, 18));&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 10px;&quot;&gt;&amp;lt;SR Admin&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: light-dark(rgb(51, 0, 0), rgb(18, 18, 18));&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 10px;&quot;&gt;Update User Department or Designation in MOM AD and WOG AD&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; color: light-dark(rgb(51, 0, 0), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;(LAN ID)&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(51, 0, 0), rgb(18, 18, 18));&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 10px;&quot;&gt;&amp;lt;SR Admin&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="161.63" x="692.9300000000001" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Change eRegistry group task to ITAA - (trigger immediately or after approval)&lt;div&gt;&amp;lt;ITAA&amp;gt;&lt;/div&gt;" vertex="1">
@@ -913,7 +913,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NPL, StudyL, Attchm, Scdm" id="ejf5tkJZticYLomRvWg4">
-    <mxGraphModel dx="2298" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
